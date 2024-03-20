@@ -11,7 +11,7 @@ public class PurchaseTest : PageTest
     [Test] 
     public async Task BuyTShirtTest()
     {   
-            // STEP 1 - Navigate to the Sauce Labs Sample Application (https://www.saucedemo.com/) in Incognito mode.
+            // STEP 1 - Navigate to the Sauce Labs Sample Application (https://www.saucedemo.com/) in Incognito mode. - I believe playwright automatically launches in incognito mode.
             // STEP 2 - Enter valid credentials to log in.
         var loginPage = new LoginPage(Page);
         await loginPage.NavigateAsync("https://www.saucedemo.com/");
