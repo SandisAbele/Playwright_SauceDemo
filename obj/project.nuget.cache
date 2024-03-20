@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wU+yQ8iBRd8Yr7cinCEmajWL+KyS7uqG1+j16FURyjIXQ4MQZJ2piEKdfwBM6itoWvxhHN5pMX7AvGHk8V7uZw==",
+  "dgSpecHash": "sQ8D42rf8C/IPSogB6UBGuN7mmm5OGpT2g+uil6NhzUT8YWtXzfE8GKrKU0Jxia9gbyUrLlWAx4B1DdDhefYwg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\PlayWright_Test\\PlaywrightTests\\PlaywrightTests.csproj",
+  "projectFilePath": "D:\\Work\\Playwright_SauceDemo\\PlaywrightTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\defen\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",

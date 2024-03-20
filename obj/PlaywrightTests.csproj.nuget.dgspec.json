@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\PlayWright_Test\\PlaywrightTests\\PlaywrightTests.csproj": {}
+    "D:\\Work\\Playwright_SauceDemo\\PlaywrightTests.csproj": {}
   },
   "projects": {
-    "D:\\Work\\PlayWright_Test\\PlaywrightTests\\PlaywrightTests.csproj": {
+    "D:\\Work\\Playwright_SauceDemo\\PlaywrightTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\PlayWright_Test\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectUniqueName": "D:\\Work\\Playwright_SauceDemo\\PlaywrightTests.csproj",
         "projectName": "PlaywrightTests",
-        "projectPath": "D:\\Work\\PlayWright_Test\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectPath": "D:\\Work\\Playwright_SauceDemo\\PlaywrightTests.csproj",
         "packagesPath": "C:\\Users\\defen\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\PlayWright_Test\\PlaywrightTests\\obj\\",
+        "outputPath": "D:\\Work\\Playwright_SauceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\defen\\AppData\\Roaming\\NuGet\\NuGet.Config"
